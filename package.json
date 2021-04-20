@@ -1,0 +1,19 @@
+{
+  "name": "video-card-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Duarte",
+  "license": "ISC",
+  "dependencies": {
+    "apx-health": "^1.0.2",
+    "apx-logger": "^1.0.0",
+    "express": "^4.17.1",
+    "node-cron": "^3.0.0",
+    "puppeteer": "^8.0.0"
+  }
+}
