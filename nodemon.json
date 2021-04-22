@@ -6,7 +6,7 @@
   "env": {
     "NODE_ENV": "Development",
     "LOG_LEVEL": "debug",
-    "DB_HOST": "mongodb://db_app_admin:XTZqTjv1rF@10.100.98.130:27017,10.100.98.98:27017,10.100.98.99:27017/baas?replicaSet=rs0&authSource=admin",
-    "PORT": "3004"
+    "DB_HOST": "mongodb://localhost:27017/grafic-card-scraper",
+    "PORT": "3000"
   }
 }
